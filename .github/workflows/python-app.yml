@@ -38,3 +38,4 @@ jobs:
       - name: Test with pylint
         run: |
           pylint calc.py
+          print("Pranav P Kulkarni")
